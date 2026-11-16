@@ -1,0 +1,6 @@
+pid,weight,priority,deadline,destination
+P1,3,5,5,A
+P2,4,4,3,B
+P3,2,3,8,C
+P4,5,5,2,E
+P5,1,2,6,F
